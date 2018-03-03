@@ -1,7 +1,6 @@
 /*
  * Julia Korcsinszka
- * Student ID: 201077367
- * Departmental ID: u5jk2
+
  */
 
 #include "Game_character.hpp"
